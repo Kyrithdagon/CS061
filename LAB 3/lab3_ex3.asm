@@ -1,5 +1,4 @@
 
-
 .ORIG X3000
 
 LEA R0, LABEL

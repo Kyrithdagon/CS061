@@ -1,12 +1,3 @@
-;=================================================
-; Name: Sharon Lee
-; Email: slee900@ucr.edu
-; 
-; Lab: lab 7, ex 3
-; Lab section: 021
-; TA: Westin Montano, Nick Santini
-; 
-;=================================================
 
 ; test harness
 .ORIG x3000

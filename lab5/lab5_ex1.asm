@@ -1,12 +1,4 @@
-;=================================================
-; Name: Sharon Lee
-; Email: slee900@ucr.edu
-; 
-; Lab: lab 5, ex 1
-; Lab section: 021
-; TA: Westin Montano, Nick Santini
-; 
-;=================================================
+
 .orig x3000
 ; Initialize the stack. Don't worry about what that means for now.
 ld r6, top_stack_addr ; DO NOT MODIFY, AND DON'T USE R6, OTHER THAN FOR BACKUP/RESTORE

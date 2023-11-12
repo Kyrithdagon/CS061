@@ -1,12 +1,4 @@
-;=================================================
-; Name: Sharon Lee
-; Email: slee900@ucr.edu
-; 
-; Lab: lab 6, ex 2
-; Lab section: 021
-; TA: Westin Montano, Nick Santini
-; 
-;=================================================
+
 .ORIG x3000
 
 LD R6, BACKUP

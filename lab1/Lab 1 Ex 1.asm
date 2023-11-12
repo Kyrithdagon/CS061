@@ -1,11 +1,3 @@
-;---------------------
-; Name: Sharon Lee
-; Email: slee900@ucr.edu
-; 
-; Lab: Lab 1 Ex 1
-; Section: 021
-; TA: Sanchit Goel, Westin Montano, Nick Santini
-;---------------------
 
 .ORIG x3000
 
